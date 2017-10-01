@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bike Mode</string>
+    <string name="radio_on">On</string>
+    <string name="radio_off">Off</string>
+</resources>
